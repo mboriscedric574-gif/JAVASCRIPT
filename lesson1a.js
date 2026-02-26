@@ -1,0 +1,5 @@
+console.log("Hello world!")
+console.log("Welcome to modcom")
+console.log("This is Kenya!")
+console.log("Life could be a dream....")
+console.log("she dumped him!")
