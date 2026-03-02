@@ -1,6 +1,6 @@
 // if else if else statements 
 // it works for multiple conditions 
-let age=935
+let age=469
 if(age<14) {
     console.log("too young to watch a movie");
 }
